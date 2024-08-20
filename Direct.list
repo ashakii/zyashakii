@@ -1,4 +1,21 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+DOMAIN-KEYWORD,jsycyun
+DOMAIN-KEYWORD,tianquetech
+DOMAIN-KEYWORD,suixingpay
+DOMAIN-KEYWORD,weixinbridge
+DOMAIN-KEYWORD,idouyinvod
+DOMAIN-KEYWORD,lanzou
+DOMAIN-KEYWORD,woozooo
+DOMAIN-KEYWORD,lanrar
+DOMAIN-KEYWORD,wwentua
+DOMAIN-KEYWORD,scriptcat
+DOMAIN-KEYWORD,bbs.tampermonkey
+DOMAIN-KEYWORD,hechuangxinxi
+DOMAIN-KEYWORD,jinfan-keji
+DOMAIN-KEYWORD,liquidlink
+DOMAIN-KEYWORD,rollbar
+DOMAIN-KEYWORD,belle-vie
+
 
 # MyList
 # 域名后缀匹配
