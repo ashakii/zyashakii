@@ -3,6 +3,8 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,115.fun
+DOMAIN-KEYWORD,zhenyunpan
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
