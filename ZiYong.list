@@ -1,5 +1,5 @@
 # 代理补充列表
-DOMAIN-KEYWORD,jubt.fun
+DOMAIN-KEYWORD,jubt
 DOMAIN-KEYWORD,sleazyfork
 DOMAIN,translate.googleapis.com
 DOMAIN-KEYWORD,18hlw
@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,scriptcat
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,madou.club
 
 # 域名关键字匹配
 
