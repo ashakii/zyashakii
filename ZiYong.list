@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,scriptcat.org
 DOMAIN-SUFFIX,155.fun
 
 # 域名关键字匹配
-IP-CIDR,142.250.99.188/8
+IP-CIDR,142.250.99.188/32,no-resolve
 
 # IP段匹配
 
