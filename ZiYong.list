@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,scriptcat.org
 DOMAIN-SUFFIX,155.fun
 DOMAIN-SUFFIX,18hlw.com
 DOMAIN-SUFFIX,yckceo.com
+DOMAIN-SUFFIX,sehuatang.net
 
 # 域名关键字匹配
 IP-CIDR,142.250.99.188/32,no-resolve
