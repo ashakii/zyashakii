@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,shuigp
 # 域名后缀匹配
 DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,scriptcat.org
+DOMAIN-SUFFIX,155.fun
 
 # 域名关键字匹配
 IP-CIDR,142.250.99.188/8,DIRECT #匹配数据目标IP
