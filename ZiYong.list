@@ -22,8 +22,7 @@ DOMAIN-SUFFIX,yckceo.com
 DOMAIN-SUFFIX,sehuatang.net
 
 # 域名关键字匹配
-IP-CIDR,142.250.99.188/32,no-resolve
-
+DOMAIN-KEYWORD,zhenyunpan
 # IP段匹配
 
 # 国外DNS
