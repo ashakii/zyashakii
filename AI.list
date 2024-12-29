@@ -1,7 +1,8 @@
 # 内容：OpenAi Bard anthropic
 # 走美国节点
-DOMAIN-SUFFIX,sehuatang.net
+DOMAIN-KEYWORD,sehuatang
 DOMAIN-KEYWORD,javbd
+DOMAIN-KEYWORD,vfhix
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
