@@ -13,12 +13,13 @@ DOMAIN-KEYWORD,hechuangxinxi
 #DOMAIN-KEYWORD,liquidlink
 DOMAIN-KEYWORD,rollbar
 DOMAIN-KEYWORD,belle-vie
+DOMAIN-KEYWORD,115
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,115.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
