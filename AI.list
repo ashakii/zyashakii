@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,javbd
 DOMAIN-KEYWORD,jdbstatic
 DOMAIN-KEYWORD,vfhix
 DOMAIN-SUFFIX,openwrt.ai
+DOMAIN-KEYWORD,grok
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
