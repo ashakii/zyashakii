@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,dmm.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,18hlw
+DOMAIN-KEYWORD,scriptcat
 
 # IP段匹配
 
