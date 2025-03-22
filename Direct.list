@@ -25,3 +25,7 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+
+#IP匹配
+IP-CIDR,172.17.0.3/32,DIRECT
+
