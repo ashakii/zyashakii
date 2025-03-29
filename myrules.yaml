@@ -152,6 +152,7 @@ rules:
   - RULE-SET,google_domain,🍀 Google
   - RULE-SET,telegram_domain,📲 Telegram
   - RULE-SET,geolocation-!cn,🚀 节点选择
+  - RULE-SET,wechatlist,🎯 全球直连
   - RULE-SET,cn_domain,🎯 全球直连
   - RULE-SET,zilianlist,🎯 全球直连
   - RULE-SET,google_ip,🍀 Google,no-resolve
@@ -180,3 +181,4 @@ rule-providers:
   japanlist: {!!merge <<: *class, url: "https://github.zyashakii.online/https://raw.githubusercontent.com/ashakii/zyashakii/refs/heads/main/Japan.list"}
   ziyonglist: {!!merge <<: *class, url: "https://github.zyashakii.online/https://raw.githubusercontent.com/ashakii/zyashakii/refs/heads/main/ZiYong.list"}
   zilianlist: {!!merge <<: *class, url: "https://github.zyashakii.online/https://raw.githubusercontent.com/ashakii/zyashakii/refs/heads/main/Direct.list"}
+  wechatlist: {!!merge <<: *class, url: "https://github.zyashakii.online/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/WeChat/WeChat.list"}
