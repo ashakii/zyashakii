@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🚀 节点选择
-    url: "https://goods.paimon.eu/genshin/v1/start/sub?token=3726a1dfd067506b85052b137e2b5893"
+    url: ""
   Airport_02:
     type: http
     interval: 1800
@@ -17,7 +17,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://d.bbydy.org/api/v1/client/subscribe?token=c6ef5bbbd6affeb385332a599e4e4f7c"
+    url: ""
       
 # 用于下载订阅时指定UA
 global-ua: clash.meta
