@@ -19,6 +19,7 @@ DOMAIN-KEYWORD,115vod
 #DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,zcode-ai
 DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,telemetry
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
